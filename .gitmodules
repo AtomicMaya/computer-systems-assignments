@@ -1,0 +1,15 @@
+[submodule "assignment-1"]
+	path = assignment-1
+	url = git@github.com:AtomicNicos/computer-systems-assignment-1.git
+[submodule "assignment-2"]
+	path = assignment-2
+	url = git@github.com:AtomicNicos/computer-systems-assignment-2.git
+[submodule "assignment-3"]
+	path = assignment-3
+	url = git@github.com:AtomicNicos/computer-systems-assignment-3.git
+[submodule "assignment-5"]
+	path = assignment-5
+	url = git@github.com:AtomicNicos/computer-systems-assignment-5.git
+[submodule "assignment-6"]
+	path = assignment-6
+	url = git@github.com:AtomicNicos/computer-systems-assignment-6.git
